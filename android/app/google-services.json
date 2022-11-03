@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317993504067",
+    "project_id": "conversinha-testando-33cca",
+    "storage_bucket": "conversinha-testando-33cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317993504067:android:13057e7e8e473a3324b3f6",
+        "android_client_info": {
+          "package_name": "com.br.rafaelss.conversinha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317993504067-42cuem0ts5au25plk6s0pd8011r3s9e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHYHyxS7lDpTwNIO7h9wTl2hu_--MeG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317993504067-42cuem0ts5au25plk6s0pd8011r3s9e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
